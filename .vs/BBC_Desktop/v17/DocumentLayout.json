@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\git\\BBC_Desktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91DC54C9-B96D-4354-8D57-35552283C542}|BBC_Desktop\\BBC_Desktop.csproj|c:\\users\\usuario\\documents\\git\\bbc_desktop\\bbc_desktop\\view\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91DC54C9-B96D-4354-8D57-35552283C542}|BBC_Desktop\\BBC_Desktop.csproj|solutionrelative:bbc_desktop\\view\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DC54C9-B96D-4354-8D57-35552283C542}|BBC_Desktop\\BBC_Desktop.csproj|c:\\users\\usuario\\documents\\git\\bbc_desktop\\bbc_desktop\\view\\frmconsultarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91DC54C9-B96D-4354-8D57-35552283C542}|BBC_Desktop\\BBC_Desktop.csproj|solutionrelative:bbc_desktop\\view\\frmconsultarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DC54C9-B96D-4354-8D57-35552283C542}|BBC_Desktop\\BBC_Desktop.csproj|c:\\users\\usuario\\documents\\git\\bbc_desktop\\bbc_desktop\\view\\frmconsultarattlivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91DC54C9-B96D-4354-8D57-35552283C542}|BBC_Desktop\\BBC_Desktop.csproj|solutionrelative:bbc_desktop\\view\\frmconsultarattlivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DC54C9-B96D-4354-8D57-35552283C542}|BBC_Desktop\\BBC_Desktop.csproj|c:\\users\\usuario\\documents\\git\\bbc_desktop\\bbc_desktop\\view\\frmconsultaradmins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91DC54C9-B96D-4354-8D57-35552283C542}|BBC_Desktop\\BBC_Desktop.csproj|solutionrelative:bbc_desktop\\view\\frmconsultaradmins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DC54C9-B96D-4354-8D57-35552283C542}|BBC_Desktop\\BBC_Desktop.csproj|c:\\users\\usuario\\documents\\git\\bbc_desktop\\bbc_desktop\\view\\frmcadastrarlivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91DC54C9-B96D-4354-8D57-35552283C542}|BBC_Desktop\\BBC_Desktop.csproj|solutionrelative:bbc_desktop\\view\\frmcadastrarlivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DC54C9-B96D-4354-8D57-35552283C542}|BBC_Desktop\\BBC_Desktop.csproj|c:\\users\\usuario\\documents\\git\\bbc_desktop\\bbc_desktop\\view\\frmmudartipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91DC54C9-B96D-4354-8D57-35552283C542}|BBC_Desktop\\BBC_Desktop.csproj|solutionrelative:bbc_desktop\\view\\frmmudartipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DC54C9-B96D-4354-8D57-35552283C542}|BBC_Desktop\\BBC_Desktop.csproj|c:\\users\\usuario\\documents\\git\\bbc_desktop\\bbc_desktop\\view\\frmcadastrarlivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DC54C9-B96D-4354-8D57-35552283C542}|BBC_Desktop\\BBC_Desktop.csproj|solutionrelative:bbc_desktop\\view\\frmcadastrarlivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmMudarTipoUsuario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\git\\BBC_Desktop\\BBC_Desktop\\view\\frmMudarTipoUsuario.cs",
+              "RelativeDocumentMoniker": "BBC_Desktop\\view\\frmMudarTipoUsuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\git\\BBC_Desktop\\BBC_Desktop\\view\\frmMudarTipoUsuario.cs [Design]",
+              "RelativeToolTip": "BBC_Desktop\\view\\frmMudarTipoUsuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:03:39.24Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmConsultarAdmins.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\git\\BBC_Desktop\\BBC_Desktop\\view\\frmConsultarAdmins.cs",
+              "RelativeDocumentMoniker": "BBC_Desktop\\view\\frmConsultarAdmins.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\git\\BBC_Desktop\\BBC_Desktop\\view\\frmConsultarAdmins.cs [Design]",
+              "RelativeToolTip": "BBC_Desktop\\view\\frmConsultarAdmins.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:01:20.765Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmConsultarUsuarios.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\git\\BBC_Desktop\\BBC_Desktop\\view\\frmConsultarUsuarios.cs",
+              "RelativeDocumentMoniker": "BBC_Desktop\\view\\frmConsultarUsuarios.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\git\\BBC_Desktop\\BBC_Desktop\\view\\frmConsultarUsuarios.cs [Design]",
+              "RelativeToolTip": "BBC_Desktop\\view\\frmConsultarUsuarios.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:57:58.092Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmConsultarAttLivro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\git\\BBC_Desktop\\BBC_Desktop\\view\\frmConsultarAttLivro.cs",
+              "RelativeDocumentMoniker": "BBC_Desktop\\view\\frmConsultarAttLivro.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\git\\BBC_Desktop\\BBC_Desktop\\view\\frmConsultarAttLivro.cs [Design]",
+              "RelativeToolTip": "BBC_Desktop\\view\\frmConsultarAttLivro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:51:49.267Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmCadastrarLivro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\git\\BBC_Desktop\\BBC_Desktop\\view\\frmCadastrarLivro.cs",
+              "RelativeDocumentMoniker": "BBC_Desktop\\view\\frmCadastrarLivro.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\git\\BBC_Desktop\\BBC_Desktop\\view\\frmCadastrarLivro.cs [Design]",
+              "RelativeToolTip": "BBC_Desktop\\view\\frmCadastrarLivro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:45:37.123Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\git\\BBC_Desktop\\BBC_Desktop\\view\\frmLogin.cs",
+              "RelativeDocumentMoniker": "BBC_Desktop\\view\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\git\\BBC_Desktop\\BBC_Desktop\\view\\frmLogin.cs [Design]",
+              "RelativeToolTip": "BBC_Desktop\\view\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:40:21.905Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmCadastrarLivro.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\git\\BBC_Desktop\\BBC_Desktop\\view\\frmCadastrarLivro.cs",
+              "RelativeDocumentMoniker": "BBC_Desktop\\view\\frmCadastrarLivro.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\git\\BBC_Desktop\\BBC_Desktop\\view\\frmCadastrarLivro.cs",
+              "RelativeToolTip": "BBC_Desktop\\view\\frmCadastrarLivro.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:48:43.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

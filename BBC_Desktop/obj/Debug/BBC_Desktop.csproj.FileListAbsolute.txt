@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\git\BBC_Desktop\BBC_Desktop\bin\Debug\BBC_Desktop.exe.config
+C:\Users\Usuario\Documents\git\BBC_Desktop\BBC_Desktop\bin\Debug\BBC_Desktop.exe
+C:\Users\Usuario\Documents\git\BBC_Desktop\BBC_Desktop\bin\Debug\BBC_Desktop.pdb
+C:\Users\Usuario\Documents\git\BBC_Desktop\BBC_Desktop\obj\Debug\BBC_Desktop.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\git\BBC_Desktop\BBC_Desktop\obj\Debug\BBC_Desktop.Properties.Resources.resources
+C:\Users\Usuario\Documents\git\BBC_Desktop\BBC_Desktop\obj\Debug\BBC_Desktop.view.frmCadastrarLivro.resources
+C:\Users\Usuario\Documents\git\BBC_Desktop\BBC_Desktop\obj\Debug\BBC_Desktop.view.frmConsultarAttLivro.resources
+C:\Users\Usuario\Documents\git\BBC_Desktop\BBC_Desktop\obj\Debug\BBC_Desktop.view.frmConsultarAdmins.resources
+C:\Users\Usuario\Documents\git\BBC_Desktop\BBC_Desktop\obj\Debug\BBC_Desktop.view.frmConsultarUsuarios.resources
+C:\Users\Usuario\Documents\git\BBC_Desktop\BBC_Desktop\obj\Debug\BBC_Desktop.frmLogin.resources
+C:\Users\Usuario\Documents\git\BBC_Desktop\BBC_Desktop\obj\Debug\BBC_Desktop.view.frmMudarTipoUsuario.resources
+C:\Users\Usuario\Documents\git\BBC_Desktop\BBC_Desktop\obj\Debug\BBC_Desktop.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\git\BBC_Desktop\BBC_Desktop\obj\Debug\BBC_Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\git\BBC_Desktop\BBC_Desktop\obj\Debug\BBC_Desktop.exe
+C:\Users\Usuario\Documents\git\BBC_Desktop\BBC_Desktop\obj\Debug\BBC_Desktop.pdb
