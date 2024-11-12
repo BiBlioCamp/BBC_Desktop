@@ -29,12 +29,12 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmLogin));
-            this.menuStrip = new System.Windows.Forms.MenuStrip();
+            this.mspBiBliocamp = new System.Windows.Forms.MenuStrip();
             this.livroToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.usuariosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.cadastrarLivroToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.consultarLivrosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.atualizarLivroToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.usuariosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.consultarUsuariosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.consultarAdminsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.gpbLogin = new System.Windows.Forms.GroupBox();
@@ -43,21 +43,22 @@
             this.txtSenha = new System.Windows.Forms.TextBox();
             this.txtUsername = new System.Windows.Forms.TextBox();
             this.lblAdmin = new System.Windows.Forms.Label();
-            this.menuStrip.SuspendLayout();
+            this.mspBiBliocamp.SuspendLayout();
             this.gpbLogin.SuspendLayout();
             this.SuspendLayout();
             // 
-            // menuStrip
+            // mspBiBliocamp
             // 
-            this.menuStrip.BackColor = System.Drawing.SystemColors.WindowFrame;
-            this.menuStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.mspBiBliocamp.BackColor = System.Drawing.SystemColors.WindowFrame;
+            this.mspBiBliocamp.Enabled = false;
+            this.mspBiBliocamp.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.livroToolStripMenuItem,
             this.usuariosToolStripMenuItem});
-            this.menuStrip.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip.Name = "menuStrip";
-            this.menuStrip.Size = new System.Drawing.Size(1010, 24);
-            this.menuStrip.TabIndex = 1;
-            this.menuStrip.Text = "menuStrip1";
+            this.mspBiBliocamp.Location = new System.Drawing.Point(0, 0);
+            this.mspBiBliocamp.Name = "mspBiBliocamp";
+            this.mspBiBliocamp.Size = new System.Drawing.Size(1010, 24);
+            this.mspBiBliocamp.TabIndex = 1;
+            this.mspBiBliocamp.Text = "menuStrip1";
             // 
             // livroToolStripMenuItem
             // 
@@ -71,6 +72,33 @@
             this.livroToolStripMenuItem.Size = new System.Drawing.Size(45, 20);
             this.livroToolStripMenuItem.Text = "Livro";
             // 
+            // cadastrarLivroToolStripMenuItem
+            // 
+            this.cadastrarLivroToolStripMenuItem.BackColor = System.Drawing.SystemColors.WindowFrame;
+            this.cadastrarLivroToolStripMenuItem.ForeColor = System.Drawing.Color.White;
+            this.cadastrarLivroToolStripMenuItem.Name = "cadastrarLivroToolStripMenuItem";
+            this.cadastrarLivroToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.cadastrarLivroToolStripMenuItem.Text = "Cadastrar Livro";
+            this.cadastrarLivroToolStripMenuItem.Click += new System.EventHandler(this.cadastrarLivroToolStripMenuItem_Click);
+            // 
+            // consultarLivrosToolStripMenuItem
+            // 
+            this.consultarLivrosToolStripMenuItem.BackColor = System.Drawing.SystemColors.WindowFrame;
+            this.consultarLivrosToolStripMenuItem.ForeColor = System.Drawing.Color.White;
+            this.consultarLivrosToolStripMenuItem.Name = "consultarLivrosToolStripMenuItem";
+            this.consultarLivrosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.consultarLivrosToolStripMenuItem.Text = "Consultar Livros";
+            this.consultarLivrosToolStripMenuItem.Click += new System.EventHandler(this.consultarLivrosToolStripMenuItem_Click);
+            // 
+            // atualizarLivroToolStripMenuItem
+            // 
+            this.atualizarLivroToolStripMenuItem.BackColor = System.Drawing.SystemColors.WindowFrame;
+            this.atualizarLivroToolStripMenuItem.ForeColor = System.Drawing.Color.White;
+            this.atualizarLivroToolStripMenuItem.Name = "atualizarLivroToolStripMenuItem";
+            this.atualizarLivroToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.atualizarLivroToolStripMenuItem.Text = "Atualizar Livro";
+            this.atualizarLivroToolStripMenuItem.Click += new System.EventHandler(this.atualizarLivroToolStripMenuItem_Click);
+            // 
             // usuariosToolStripMenuItem
             // 
             this.usuariosToolStripMenuItem.BackColor = System.Drawing.SystemColors.WindowFrame;
@@ -82,30 +110,6 @@
             this.usuariosToolStripMenuItem.Size = new System.Drawing.Size(64, 20);
             this.usuariosToolStripMenuItem.Text = "Usuarios";
             // 
-            // cadastrarLivroToolStripMenuItem
-            // 
-            this.cadastrarLivroToolStripMenuItem.BackColor = System.Drawing.SystemColors.WindowFrame;
-            this.cadastrarLivroToolStripMenuItem.ForeColor = System.Drawing.Color.White;
-            this.cadastrarLivroToolStripMenuItem.Name = "cadastrarLivroToolStripMenuItem";
-            this.cadastrarLivroToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.cadastrarLivroToolStripMenuItem.Text = "Cadastrar Livro";
-            // 
-            // consultarLivrosToolStripMenuItem
-            // 
-            this.consultarLivrosToolStripMenuItem.BackColor = System.Drawing.SystemColors.WindowFrame;
-            this.consultarLivrosToolStripMenuItem.ForeColor = System.Drawing.Color.White;
-            this.consultarLivrosToolStripMenuItem.Name = "consultarLivrosToolStripMenuItem";
-            this.consultarLivrosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.consultarLivrosToolStripMenuItem.Text = "Consultar Livros";
-            // 
-            // atualizarLivroToolStripMenuItem
-            // 
-            this.atualizarLivroToolStripMenuItem.BackColor = System.Drawing.SystemColors.WindowFrame;
-            this.atualizarLivroToolStripMenuItem.ForeColor = System.Drawing.Color.White;
-            this.atualizarLivroToolStripMenuItem.Name = "atualizarLivroToolStripMenuItem";
-            this.atualizarLivroToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.atualizarLivroToolStripMenuItem.Text = "Atualizar Livro";
-            // 
             // consultarUsuariosToolStripMenuItem
             // 
             this.consultarUsuariosToolStripMenuItem.BackColor = System.Drawing.SystemColors.WindowFrame;
@@ -113,6 +117,7 @@
             this.consultarUsuariosToolStripMenuItem.Name = "consultarUsuariosToolStripMenuItem";
             this.consultarUsuariosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.consultarUsuariosToolStripMenuItem.Text = "Consultar Usuarios";
+            this.consultarUsuariosToolStripMenuItem.Click += new System.EventHandler(this.consultarUsuariosToolStripMenuItem_Click);
             // 
             // consultarAdminsToolStripMenuItem
             // 
@@ -121,6 +126,7 @@
             this.consultarAdminsToolStripMenuItem.Name = "consultarAdminsToolStripMenuItem";
             this.consultarAdminsToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.consultarAdminsToolStripMenuItem.Text = "Consultar Admins";
+            this.consultarAdminsToolStripMenuItem.Click += new System.EventHandler(this.consultarAdminsToolStripMenuItem_Click);
             // 
             // gpbLogin
             // 
@@ -151,6 +157,7 @@
             this.btnEntrar.TabIndex = 4;
             this.btnEntrar.Text = "Entrar";
             this.btnEntrar.UseVisualStyleBackColor = true;
+            this.btnEntrar.Click += new System.EventHandler(this.btnEntrar_Click);
             // 
             // label1
             // 
@@ -205,13 +212,13 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(1010, 576);
             this.Controls.Add(this.gpbLogin);
-            this.Controls.Add(this.menuStrip);
+            this.Controls.Add(this.mspBiBliocamp);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.IsMdiContainer = true;
             this.Name = "frmLogin";
             this.Text = "BiBlioCamp";
-            this.menuStrip.ResumeLayout(false);
-            this.menuStrip.PerformLayout();
+            this.mspBiBliocamp.ResumeLayout(false);
+            this.mspBiBliocamp.PerformLayout();
             this.gpbLogin.ResumeLayout(false);
             this.gpbLogin.PerformLayout();
             this.ResumeLayout(false);
@@ -221,7 +228,7 @@
 
         #endregion
 
-        private System.Windows.Forms.MenuStrip menuStrip;
+        private System.Windows.Forms.MenuStrip mspBiBliocamp;
         private System.Windows.Forms.ToolStripMenuItem livroToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem cadastrarLivroToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem consultarLivrosToolStripMenuItem;

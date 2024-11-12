@@ -117,14 +117,14 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="menuStrip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+  <metadata name="mspBiBliocamp.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="$this.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAB1gAAAPWCAYAAABN/EqCAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wgAADsIBFShKgAAAtiZJREFUeF7s/ffXdd9+l/ftxMZ2bCQEOsJx4thxXBLHSTBgMBhMMxgbTAcb1A8q
+        wQAADsEBuJFr7QAAtiZJREFUeF7s/ffXdd9+l/ftxMZ2bCQEOsJx4thxXBLHSTBgMBhMMxgbTAcb1A8q
         qDdQQRUJ6ahLLhiMKTYlxU5sp/fi9F7/E52i08R4svdaa+69137mvL/PvfZnPXt+5n798B7X95rXc88x
         x9CPa+yjw//vl//yNx/60IfMzMzMzMzMzMzMzMzMzOwDNn1g/ZnDz7352bL/xNV/L66vXV+7vvZUvXV+
         7726fuP62h/aW+f33qvrN66v/aG9dX7vvbp+4/raH9pb5/feq+s3rq/9ob11fu+9un7j+tof2lvn996r

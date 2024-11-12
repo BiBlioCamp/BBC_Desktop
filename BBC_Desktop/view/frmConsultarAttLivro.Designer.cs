@@ -30,6 +30,8 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmConsultarAttLivro));
             this.gpbAtualizar = new System.Windows.Forms.GroupBox();
+            this.txtClasse = new System.Windows.Forms.TextBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.btnAtualizar = new System.Windows.Forms.Button();
             this.btnLimpar = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
@@ -40,8 +42,6 @@
             this.txtEditora = new System.Windows.Forms.TextBox();
             this.txtAutor = new System.Windows.Forms.TextBox();
             this.txtTitulo = new System.Windows.Forms.TextBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.txtClasse = new System.Windows.Forms.TextBox();
             this.dgwLivros = new System.Windows.Forms.DataGridView();
             this.Titulo = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -76,6 +76,20 @@
             this.gpbAtualizar.TabStop = false;
             this.gpbAtualizar.Text = "Atualizar";
             // 
+            // txtClasse
+            // 
+            this.txtClasse.Location = new System.Drawing.Point(305, 109);
+            this.txtClasse.Name = "txtClasse";
+            this.txtClasse.Size = new System.Drawing.Size(141, 20);
+            this.txtClasse.TabIndex = 25;
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(132, 109);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(92, 20);
+            this.textBox1.TabIndex = 24;
+            // 
             // btnAtualizar
             // 
             this.btnAtualizar.ForeColor = System.Drawing.Color.Black;
@@ -85,6 +99,7 @@
             this.btnAtualizar.TabIndex = 23;
             this.btnAtualizar.Text = "Atualizar";
             this.btnAtualizar.UseVisualStyleBackColor = true;
+            this.btnAtualizar.Click += new System.EventHandler(this.btnAtualizar_Click);
             // 
             // btnLimpar
             // 
@@ -162,20 +177,6 @@
             this.txtTitulo.Size = new System.Drawing.Size(322, 20);
             this.txtTitulo.TabIndex = 12;
             // 
-            // textBox1
-            // 
-            this.textBox1.Location = new System.Drawing.Point(132, 109);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(92, 20);
-            this.textBox1.TabIndex = 24;
-            // 
-            // txtClasse
-            // 
-            this.txtClasse.Location = new System.Drawing.Point(305, 109);
-            this.txtClasse.Name = "txtClasse";
-            this.txtClasse.Size = new System.Drawing.Size(141, 20);
-            this.txtClasse.TabIndex = 25;
-            // 
             // dgwLivros
             // 
             this.dgwLivros.AllowUserToAddRows = false;
@@ -233,7 +234,7 @@
             this.Column5.Name = "Column5";
             this.Column5.ReadOnly = true;
             // 
-            // frmConsultarLivro
+            // frmConsultarAttLivro
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -242,7 +243,7 @@
             this.Controls.Add(this.dgwLivros);
             this.Controls.Add(this.gpbAtualizar);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Name = "frmConsultarLivro";
+            this.Name = "frmConsultarAttLivro";
             this.Text = "Consultar Livros";
             this.gpbAtualizar.ResumeLayout(false);
             this.gpbAtualizar.PerformLayout();

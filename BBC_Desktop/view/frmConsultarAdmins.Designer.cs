@@ -50,6 +50,7 @@
             this.dgwUsuario.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgwUsuario.Size = new System.Drawing.Size(347, 292);
             this.dgwUsuario.TabIndex = 4;
+            this.dgwUsuario.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgwUsuario_CellContentClick);
             // 
             // Column3
             // 
